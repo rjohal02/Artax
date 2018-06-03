@@ -1,4 +1,4 @@
-#/bin/bash
+#!/bin/bash
 NONE='\033[00m'
 RED='\033[01;31m'
 GREEN='\033[01;32m'
