@@ -10,7 +10,7 @@ BOLD='\033[1m'
 UNDERLINE='\033[4m'
 MAX=10
 
-COINGITHUB=https://github.com/Artax-Project/Artax
+COINGITHUB=https://github.com/artaxcommittee/Artax
 COINPORT=21527
 COINDAEMON=artaxd
 COINCLI=artax-cli
